@@ -1,4 +1,4 @@
-# Amino-Acid-Properties-Prediction
+# Amino-Acid-Properties-Prediction Using Gen AI
 
 ## INSTALLTION AND IMPORT
 ```python
