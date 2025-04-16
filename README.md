@@ -20,7 +20,7 @@ print("installation and importing DONE!!!")
 
 ## CONFIGURATION
 ```python
-GOOGLE_API_KEY = "AIzaSyBZw0gtxf3AtS-8ieqTPNxBSbe8-8Qnaiw" # <--- REPLACE THIS with your API
+GOOGLE_API_KEY = "ADD_YOUR_API_KEY" # <--- REPLACE THIS with your API
 
 # Configure the GenAI client
 genai.configure(api_key=GOOGLE_API_KEY)
