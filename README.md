@@ -53,7 +53,7 @@ def setup_database(csv_path: str, db_path: str) -> bool:
 print("Database setup successful.")
 ```
 
-## DEFINE THE FUNCTION TOOL FOR THE LLM`
+## DEFINE THE FUNCTION TOOL FOR THE LLM
 ```python
 def get_amino_acid_properties(amino_acid_name: str) -> typing.Dict[str, typing.Any]:
     """
